@@ -1,0 +1,8 @@
+# Requirements pour le Projet BI - Analyse GenAI
+# Installation: pip install -r requirements.txt
+
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+sqlite3

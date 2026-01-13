@@ -1,0 +1,54 @@
+
+================================================================================
+RAPPORT DE NETTOYAGE DES DONNÉES - GENAI ENTREPRISES
+================================================================================
+Date: 2026-01-13 16:14:47
+
+1. DONNÉES INITIALES
+   - Nombre de lignes: 100,000
+   - Nombre de colonnes: 10
+   - Taille mémoire: 49.32 MB
+
+2. NETTOYAGE EFFECTUÉ
+   - Doublons supprimés: 0
+   - Valeurs aberrantes filtrées: 0
+   - Valeurs manquantes traitées: 0
+
+3. DONNÉES FINALES
+   - Nombre de lignes: 100,000
+   - Nombre de colonnes: 16
+   - Taux de conservation: 100.00%
+   - Valeurs manquantes: 0
+
+4. NOUVELLES FEATURES CRÉÉES
+   - Company_Size: Catégorisation de la taille d'entreprise
+   - Productivity_Impact: Catégorisation de l'impact productivité
+   - Adoption_Phase: Phase d'adoption (Early/Mainstream/Late)
+   - Training_per_Employee: Ratio formation par employé
+   - New_Roles_Rate: Taux de création de nouveaux rôles
+   - Sentiment_Category: Catégorisation du sentiment employé
+
+5. ANALYSES CLÉS
+   - Nombre de pays: 14
+   - Nombre d'industries: 14
+   - Nombre d'outils GenAI: 6
+   - Années d'adoption: 2022 - 2024
+
+6. STATISTIQUES PRINCIPALES
+   - Employés impactés (moyenne): 10,052
+   - Nouveaux rôles créés (moyenne): 15.50
+   - Heures de formation (moyenne): 12,742h
+   - Changement productivité (moyenne): 18.47%
+
+7. FICHIERS GÉNÉRÉS
+   - donnees_genai_nettoyees.csv
+   - 01_valeurs_manquantes_genai.png (si applicable)
+   - 02_distribution_pays.png
+   - 03_distribution_industrie.png
+   - 04_distribution_genai_tools.png
+   - 05_evolution_adoption.png
+   - 06_analyse_productivite.png
+   - 07_correlation_matrix.png
+   - rapport_nettoyage_genai.txt
+
+================================================================================
